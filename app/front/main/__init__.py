@@ -1,0 +1,1 @@
+from app.front.main.views import main
